@@ -155,7 +155,7 @@ We follow a trunk-based development strategy for infrastructure code and a GitFl
 
 ## 📜 License
 This project is proprietary and licensed under the [customer's agreement](./LICENSE).  
-Not publicly distributed.
+Not publicly distributed
 
 
 
