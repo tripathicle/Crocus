@@ -1,5 +1,5 @@
 
-# 🌱 Crocus IAC: Enterprise-Grade Azure Infrastructure & DevOps Automation
+# 🌱 Crocus IAC: Enterprise-Grade Azure Infrastructure & DevOps Automation 
 
 ---
 
